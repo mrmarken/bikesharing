@@ -2,7 +2,7 @@
 # Edit at https://www.toptal.com/developers/gitignore?templates=osx,python,jupyternotebooks,visualstudiocode,windows,xcode
 
 # local files to ignore
-
+Module_14_Notes/*
 
 
 ### JupyterNotebooks ###
