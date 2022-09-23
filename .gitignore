@@ -3,7 +3,8 @@
 
 # local files to ignore
 Module_14_Notes/*
-
+Datasources/*
+*.twbr
 
 ### JupyterNotebooks ###
 # gitignore template for Jupyter Notebooks
